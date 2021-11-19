@@ -7,4 +7,5 @@
 
 # import project in eclipse
 1. install tomcat server: using https://stackoverflow.com/questions/8046871/how-to-add-tomcat-server-in-eclipse
+2. add external jars using https://stackoverflow.com/questions/3280353/how-to-import-a-jar-in-eclipse
 2. right click on project and run 
